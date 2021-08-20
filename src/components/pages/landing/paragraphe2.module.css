@@ -1,0 +1,48 @@
+#bolder{
+    font-size: 3rem;
+    font-weight: 500;
+}
+#time,#code,#allsizes{
+    width: 30px;
+    height: 30px;
+    margin-left: 1.1vw;
+}
+#bg{
+    background-color: rgb(64, 6, 211);
+    border-radius: 10px;
+}
+#img{
+    max-width: 100%;
+    height: auto;
+    margin-top: 7vh; margin-bottom: 0;
+}
+.card{
+    background-color: rgba(0,0,0,0); 
+    margin-top: 1rem; 
+    
+}
+@media screen and (min-width : 1024px) {
+    .card{
+        position: relative;
+        top: 5rem;padding-left: 3rem;
+    }
+}
+@media screen and (max-width: 320px) {
+    #bolder{
+        font-size: 1.5rem;
+        margin-left: 1rem;
+    }
+    #time,
+    #code,
+    #allsizes{
+        margin-left: 1rem;
+    }
+}
+.transparent{
+    background-color: rgba(0, 0, 0, 0);
+    border-width: 0;
+}
+#button{
+    color: rgb(64, 6, 211);
+    font-weight: 500;
+}

@@ -1,0 +1,56 @@
+#bg{
+    background-color: rgb(254, 250, 250);
+}
+.Section{
+    position: relative;
+    top : -3vw ;
+    right: -4vw;
+}
+.figure{
+    position: relative;
+    top: -2vw;
+    max-width: 100%;
+    height: auto;
+}
+.header{
+    font-size: 10vh;
+    font-weight :600;
+    margin-bottom: 2.5vh;
+}
+.paragraphe{
+    color: gray;
+    font-weight: 400;
+}
+.button{
+    background-color: rgb(113, 7, 212);
+    border: 1px solid rgb(96, 5, 201);
+}
+.link{
+    color :rgb(79, 2, 202) ;
+}
+.star {
+    margin-right: 5px;
+}
+
+@media screen and (max-width : 600px) {
+    .button {
+        width: 80vw;
+    }
+    .link{
+        width: 80vw;
+        padding-left: 24vw;
+    }
+    .header{
+        font-size: 6vh;
+    }
+    #text{
+        order : 2;
+    }
+    .figure {
+        position: relative;
+        top: -6vw;
+    }
+    .h5{
+        display: none;
+    }
+}
