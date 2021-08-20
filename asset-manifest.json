@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fiber-app/static/css/main.18a75145.chunk.css",
+    "main.js": "/fiber-app/static/js/main.666e608b.chunk.js",
+    "main.js.map": "/fiber-app/static/js/main.666e608b.chunk.js.map",
+    "runtime-main.js": "/fiber-app/static/js/runtime-main.d1ae794a.js",
+    "runtime-main.js.map": "/fiber-app/static/js/runtime-main.d1ae794a.js.map",
+    "static/js/2.68944a9e.chunk.js": "/fiber-app/static/js/2.68944a9e.chunk.js",
+    "static/js/2.68944a9e.chunk.js.map": "/fiber-app/static/js/2.68944a9e.chunk.js.map",
+    "index.html": "/fiber-app/index.html",
+    "static/css/main.18a75145.chunk.css.map": "/fiber-app/static/css/main.18a75145.chunk.css.map",
+    "static/js/2.68944a9e.chunk.js.LICENSE.txt": "/fiber-app/static/js/2.68944a9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1ae794a.js",
+    "static/js/2.68944a9e.chunk.js",
+    "static/css/main.18a75145.chunk.css",
+    "static/js/main.666e608b.chunk.js"
+  ]
+}
